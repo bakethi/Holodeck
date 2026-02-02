@@ -1,7 +1,7 @@
 # Holodeck
 Unity Core for the Holodeck Usecase of [DroneManager](https://github.com/Domattee/DroneManager). Read the [docs](https://dronemanager.readthedocs.io/en/latest/holodeck.html) on how to use it.
 
-![Release](https://img.shields.io/github/v/release/bakethi/Holodeck?include_prereleases?color=blue&label=Latest%20Download)
+![Release](https://img.shields.io/github/v/release/bakethi/Holodeck?include_prereleases&color=blue&label=Latest%20Download)
 
 ## 📥 Getting Started
 
